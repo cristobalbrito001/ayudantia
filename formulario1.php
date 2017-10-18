@@ -46,7 +46,7 @@
   					data: { nombre: "John"}
 				})
   					.done(function( msg ) {
-    					alert( "tu vieja se llama: " + msg );
+    					alert( "tu vieja se llama	: " + msg );
   					});
 			}
 		</script>
